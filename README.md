@@ -1,68 +1,105 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--
+*** Thanks for checking out this README Template. If you have a suggestion that would
+*** make this better, please fork the repo and create a pull request or simply open
+*** an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+-->
 
-## Available Scripts
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-In the project directory, you can run:
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-### `npm start`
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <h3 align="center">Expense Tracker</h3>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <p align="center">
+    A simple react context app!
+    <br />
+    <br />
+  </p>
+</p>
 
-### `npm test`
+<!-- TABLE OF CONTENTS -->
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Table of Contents
 
-### `npm run build`
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ABOUT THE PROJECT -->
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## About The Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A simple react web app using context!.
 
-### `npm run eject`
+### Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+It´s just react!.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://reactjs.org/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- GETTING STARTED -->
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Getting Started
 
-## Learn More
+Just run the app, and you´re good to go!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Prerequisites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- npm
 
-### Code Splitting
+```sh
+npm install
+npm run dev
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Installation
 
-### Analyzing the Bundle Size
+1. Clone the repo
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```sh
+git clone https://github.com/guibais/Expense-Tracker.git
+```
 
-### Making a Progressive Web App
+<!-- CONTACT -->
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Contact
 
-### Advanced Configuration
+Your Name - [My Linkedin]([linkedin-url]) - baissousa.guilherme@gmail.com
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/guibais
