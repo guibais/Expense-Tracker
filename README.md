@@ -84,7 +84,7 @@ git clone https://github.com/guibais/Expense-Tracker.git
 
 ## Contact
 
-Your Name - [My Linkedin]([linkedin-url]) - baissousa.guilherme@gmail.com
+Guilherme Bais Sousa - [My Linkedin]([linkedin-url]) - baissousa.guilherme@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
